@@ -15,3 +15,5 @@ to uses tools like Whisper to add indexing for media files (whisper for audio, a
 ## QPS calculator and recommendations
 Simple calculator for million users and QPS calculations, and db storage recommendations
 
+## Realistic expecations of QPS from server
+Should we calculate based on request processing time, or memory, or what?
