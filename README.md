@@ -18,5 +18,5 @@ Simple calculator for million users and QPS calculations, and db storage recomme
 ## Realistic expecations of QPS from server
 Should we calculate based on request processing time, or memory, or what?
 
-## Meme generator
+## Fresh Meme generator
 TV tropes, and still libraries suggesting memes for given occasions.
