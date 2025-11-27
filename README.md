@@ -21,7 +21,7 @@ Should we calculate based on request processing time, or memory, or what?
 ## Fresh Meme generator
 TV tropes, and still libraries suggesting memes for given occasions.
 
-# App facilitating formal methods for code specificatoon. 
+## App facilitating formal methods for code specificatoon. 
 
 Need to identify the following:
 - Benefits of using formal methods
@@ -29,5 +29,5 @@ Need to identify the following:
 - How do we facilitate more effective use of formal methods
 - Can I help with reducing the tedium of the task involved.
 
-# Brag sheet voice bot
+## Brag sheet voice bot
 A bot you talk to at the end of the day, that creates a record of your day, and things that are of high priority for the next day.
