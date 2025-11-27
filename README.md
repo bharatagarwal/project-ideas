@@ -23,4 +23,11 @@ TV tropes, and still libraries suggesting memes for given occasions.
 
 # App facilitating formal methods for code specificatoon. 
 
-# Brag sheet voice bot --  a bot you talk to at the end of the day, that creates a record of your day, and things that are of high priority for the next day.
+Need to identify the following:
+- Benefits of using formal methods
+- Challenges in using them
+- How do we facilitate more effective use of formal methods
+- Can I help with reducing the tedium of the task involved.
+
+# Brag sheet voice bot
+A bot you talk to at the end of the day, that creates a record of your day, and things that are of high priority for the next day.
