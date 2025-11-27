@@ -21,4 +21,6 @@ Should we calculate based on request processing time, or memory, or what?
 ## Fresh Meme generator
 TV tropes, and still libraries suggesting memes for given occasions.
 
-# App facilitating formal methods for code sprcificatoon. 
+# App facilitating formal methods for code specificatoon. 
+
+# Brag sheet voice bot --  a bot you talk to at the end of the day, that creates a record of your day, and things that are of high priority for the next day.
